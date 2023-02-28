@@ -1,0 +1,59 @@
+body{background-color:#25587d;}
+
+
+
+
+
+
+#kecske{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#kecske1{
+    color: white;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#elso{
+
+    color: whitesmoke;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#yo{
+    color: white;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#pontozott{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-style: italic;
+
+
+}
+
+#franklin{
+    color: white;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+#parag{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
